@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e581816b.css",
-    "main.js": "/static/js/main.e46c8016.js",
+    "main.css": "/static/css/main.33c60695.css",
+    "main.js": "/static/js/main.014de9ae.js",
     "static/media/BackGroundLogIn.svg": "/static/media/BackGroundLogIn.35682c21e4ff630ffe19.svg",
     "static/media/ChatBackground.svg": "/static/media/ChatBackground.e78780e3af27a4a88d94ac0adb9bdf54.svg",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
     "static/media/LogoMoorChat.svg": "/static/media/LogoMoorChat.5cb464daa021d9b6cdb09a2161134bfe.svg",
     "static/media/CatPaw.svg": "/static/media/CatPaw.0d7074f965524dd97fc3d913f62a3708.svg",
     "static/media/Settings.svg": "/static/media/Settings.09b7483b815076c1e056436dc3fa73ad.svg",
+    "static/media/ImgCtct.svg": "/static/media/ImgCtct.2fa0093ab72593d62d04f9bac5983ee2.svg",
     "static/media/GroupChats.svg": "/static/media/GroupChats.5c7f201013da53337e4a795cf6e99120.svg",
     "static/media/PersonalChats.svg": "/static/media/PersonalChats.809eed747447af929d4cacb19069d207.svg",
+    "static/media/ChatPers.svg": "/static/media/ChatPers.8a37a5ada54af3d0a7a7fbbc845008c5.svg",
     "static/media/Menu.svg": "/static/media/Menu.02afa93a55a1709d78ca74423976ee46.svg",
     "static/media/LogOut.svg": "/static/media/LogOut.2e4cebf6094584c1bdf1e2ed265eb1fa.svg",
     "index.html": "/index.html",
-    "main.e581816b.css.map": "/static/css/main.e581816b.css.map",
-    "main.e46c8016.js.map": "/static/js/main.e46c8016.js.map"
+    "main.33c60695.css.map": "/static/css/main.33c60695.css.map",
+    "main.014de9ae.js.map": "/static/js/main.014de9ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.e581816b.css",
-    "static/js/main.e46c8016.js"
+    "static/css/main.33c60695.css",
+    "static/js/main.014de9ae.js"
   ]
 }
